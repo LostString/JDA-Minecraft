@@ -1,0 +1,5 @@
+name: Discord-Hook
+version: '${project.version}'
+main: me.lost.main.Main
+commands:
+  dc:
