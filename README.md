@@ -11,4 +11,5 @@ Inicio del Bot: inicia el bot con el token y añade el listener con el comando /
 ## Dependencias
 
 [Spigot](https://getbukkit.org/download/spigot)
+
 [JDA](https://github.com/DV8FromTheWorld/JDA)
